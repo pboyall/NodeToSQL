@@ -1,0 +1,50 @@
+{
+  "name": "reviewebservice",
+  "version": "1.0.0",
+  "description": "Web Service to perform review process",
+  "main": "src/testtedious.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "babel": "^5.8.29",
+    "express": "^4.13.3",
+    "file-stream-rotator": "0.0.6",
+    "jwt-simple": "^0.3.1",
+    "log4js": "^0.6.27",
+    "mongojs": "^1.4.1",
+    "morgan": "^1.6.1",
+    "node-uuid": "^1.4.3",
+    "q": "^1.4.1",
+    "sqlite3": "^3.1.0",
+    "tedious": "^1.12.3",
+    "tedious-connection-pool": "^0.3.8",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.6",
+    "jshint": "^2.8.0",
+    "merge2": "^0.3.6",
+    "through2": "^2.0.0"
+  },
+  "scripts": {
+    "test": "src/testtedious.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pboyall/ReviewWebService.git"
+  },
+  "author": "Peter.Boyall@popewoodhead.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pboyall/ReviewWebService/issues"
+  },
+  "homepage": "https://github.com/pboyall/ReviewWebService#readme"
+}
