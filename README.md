@@ -1,2 +1,2 @@
 # ReviewWebService
-Node Web service for VX2
+Node Web service, testing Object Mapper

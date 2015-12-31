@@ -32,18 +32,11 @@ exports.main = function (req, res) {
 
     //Establising a promise object to work with results of the call
 
-    Q
-
-        .allSettled(
-
-[
-
-updateData(configConnection, querySelect, passParameter)
-
-]
-
-    )
-
+    Q.allSettled(
+		[
+		updateData(configConnection, querySelect, passParameter)
+		]	
+	)
     .then(
 
         function (promises) {

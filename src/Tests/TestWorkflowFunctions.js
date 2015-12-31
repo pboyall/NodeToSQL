@@ -30,7 +30,6 @@ wff.getStartNode1(3).then(function (value) {
 
 return deferred1.promise;
 /*
-
     var captureresults = function (rows, rowCount) {
         log.debug("Result Capture:" + rowCount);
         log.debug(rows);

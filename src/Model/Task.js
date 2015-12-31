@@ -1,5 +1,7 @@
 'use strict';
 
+//Specific instance of a Workflow task
+
 var task = function (properties) {
     if (typeof properties === 'undefined') {
         var properties = {};

@@ -195,7 +195,6 @@ var runRestOfServer = function () {
                 .then(taskrepo.load(GR, captureresults))
                 .then(TA)
                 .then(taskrepo.load(theTaskAssignmentHistory, captureresults))
-
     ;
                 */
     /*

@@ -1,5 +1,7 @@
 'use strict';
 
+//The current node (s) to which the task is assigned
+
 var TaskNode = function (properties) {
 
     if (typeof properties === 'undefined') {

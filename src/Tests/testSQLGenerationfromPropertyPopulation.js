@@ -6,8 +6,6 @@ var taskAssignment = require('./TaskAssignment.js');
 var tr = require('./TaskRepository.js');
 var db = new database();
 
-
-
 var _TaskId = 1;
 var _DateAssigned = '15/1/2015';
 var _GroupId = '3';
@@ -66,7 +64,6 @@ theObject.Keys.map(function (item) {
 insertSQL = insertSQL + whereSQL;
 updateSQL = updateSQL + whereSQL;
 selectSQL = selectSQL + whereSQL;
-
 
 console.log(whereSQL);
 

@@ -1,17 +1,5 @@
 //How to iterate over an array using the map method
 
-var kays = [
-    {
-        TaskId: 1
-    },
-    {
-        TaskAssignmentId: 2
-    },
-    {
-        PersonId: 3
-    }
-];
-
 var keys = [
     {
         key: "TaskId",

@@ -141,12 +141,9 @@ function isDeferred() {
 
 //get a resolution - this seems to call the fcall function twice?
 //fcallsASyncFunction().then(three);
-
 //Try using node function mapper - only calls the function once but doesn't resolve and call three
 //nfcallsASyncFunction().then(three);
-
 //nodeifycallsASyncFunction().then(isDeferred);
-
 //dbn("select * from UserGroup", notDeferred).then(isDeferred);
 
 def1();

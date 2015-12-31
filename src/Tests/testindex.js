@@ -67,7 +67,7 @@ taskrepo.load(theTaskAssignment, myfunc);
 
 console.log("Registering endpoint: /");
 app.get('/', function (req, res) {
-    res.send('PW Review Process Web Service');
+    res.send('Review Process Web Service');
 });
 
 console.log("Registering endpoint: /Initialise");

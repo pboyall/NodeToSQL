@@ -1,5 +1,7 @@
 'use strict';
 
+//Stores details of the group containing the person
+
 var UserGroup = function (properties) {
     if (typeof properties === 'undefined') {
         properties = {};

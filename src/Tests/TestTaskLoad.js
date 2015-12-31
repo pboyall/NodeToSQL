@@ -5,7 +5,6 @@ require("babel/register");
 var database = require('../TediousDatabase.js');
 var taskRepository = require('../TaskRepository.js');
 var theTask = require('../Model/Task.js');
-
 console.log('Initialise');
 
 var db = new database();
@@ -13,7 +12,6 @@ var taskrepo = new taskRepository({
     WorkflowProcessId: 3,
     dbContext: db
 });
-
 
 var task3 = new theTask();
 task3.TaskId = 1;

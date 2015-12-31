@@ -1,5 +1,7 @@
 'use strict';
 
+//Conditions used to drive a split in the workflow (mostly yes or no)
+
 var BranchCondition = function (properties) {
     if (typeof properties === 'undefined') {
         properties = {};

@@ -1,5 +1,7 @@
 'use strict';
 
+//One stop on the Workflow (e.g. "Status is approved")
+
 var branchnode = function (properties) {
     if (typeof properties === 'undefined') {
         properties = {};

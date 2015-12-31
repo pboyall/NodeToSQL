@@ -1,5 +1,6 @@
 'use strict';
 
+//Types of approval process - sequential, hierarchical etc.
 
 var ApprovalProcessTypes = function (properties) {
     if (typeof properties === 'undefined') {

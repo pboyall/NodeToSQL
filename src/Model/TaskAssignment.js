@@ -1,5 +1,7 @@
 'use strict';
 
+//Instance where a task is assigned to a group
+
 var taskAssignment = function (properties) {
     if (typeof properties === 'undefined') {
         properties = {};

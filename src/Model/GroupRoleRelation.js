@@ -1,5 +1,7 @@
 'use strict';
 
+//relationship between groups (e.g. managers, approves)
+
 var GroupRoleRelation = function GroupRoleRelation(properties) {
     if (typeof properties === 'undefined') {
         properties = {};

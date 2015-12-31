@@ -1,5 +1,7 @@
 'use strict';
 
+//REcords history of task assignments (necessary for tracking who approved what and when)
+
 var taskAssignmentHistory = function (properties) {
 
     if (typeof properties === 'undefined') {
