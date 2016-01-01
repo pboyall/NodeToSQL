@@ -1,0 +1,68 @@
+[2016-01-01 14:04:02.703] [INFO] ReviewService - {"TaskId" : "1", "DateAssigned" : "Thu Jan 15 2015 00:00:00 GMT+0000 (GMT Standard Time)", "GroupId" : "1", "AccessType" : "1", "NodeId" : "1" }
+[2016-01-01 14:04:02.717] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.718] [DEBUG] ReviewService - Property Name: TaskId
+[2016-01-01 14:04:02.720] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.721] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.722] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.723] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.725] [DEBUG] ReviewService - Retrived valueThu Jan 15 2015 00:00:00 GMT+0000 (GMT Standard Time)
+[2016-01-01 14:04:02.726] [DEBUG] ReviewService - Property Name: DateAssigned
+[2016-01-01 14:04:02.728] [DEBUG] ReviewService - Field Value 2015-01-15
+[2016-01-01 14:04:02.729] [DEBUG] ReviewService - Direct  Value 2015-01-15
+[2016-01-01 14:04:02.730] [DEBUG] ReviewService - Post Field Value Thu Jan 15 2015 00:00:00 GMT+0000 (GMT Standard Time)
+[2016-01-01 14:04:02.731] [DEBUG] ReviewService - Post Direct  Value Thu Jan 15 2015 00:00:00 GMT+0000 (GMT Standard Time)
+[2016-01-01 14:04:02.733] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.734] [DEBUG] ReviewService - Property Name: GroupId
+[2016-01-01 14:04:02.736] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.737] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.739] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.740] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.741] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.742] [DEBUG] ReviewService - Property Name: AccessType
+[2016-01-01 14:04:02.744] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.746] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.747] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.749] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.751] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.753] [DEBUG] ReviewService - Property Name: NodeId
+[2016-01-01 14:04:02.756] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.758] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.760] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.761] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.901] [INFO] ReviewService - {"GroupId" : "1", "PersonId" : "1", "DateUpdated" : "Sat Jan 01 2000 00:00:00 GMT+0000 (GMT Standard Time)", "Enabled" : "1", "StartDate" : "null", "EndDate" : "null" }
+[2016-01-01 14:04:02.918] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.919] [DEBUG] ReviewService - Property Name: GroupId
+[2016-01-01 14:04:02.921] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.922] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.923] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.924] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.925] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.926] [DEBUG] ReviewService - Property Name: PersonId
+[2016-01-01 14:04:02.927] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.929] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.930] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.931] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.932] [DEBUG] ReviewService - Retrived valueSat Jan 01 2000 00:00:00 GMT+0000 (GMT Standard Time)
+[2016-01-01 14:04:02.934] [DEBUG] ReviewService - Property Name: DateUpdated
+[2016-01-01 14:04:02.935] [DEBUG] ReviewService - Field Value 2015-01-16
+[2016-01-01 14:04:02.937] [DEBUG] ReviewService - Direct  Value 2015-01-16
+[2016-01-01 14:04:02.938] [DEBUG] ReviewService - Post Field Value Sat Jan 01 2000 00:00:00 GMT+0000 (GMT Standard Time)
+[2016-01-01 14:04:02.940] [DEBUG] ReviewService - Post Direct  Value Sat Jan 01 2000 00:00:00 GMT+0000 (GMT Standard Time)
+[2016-01-01 14:04:02.942] [DEBUG] ReviewService - Retrived value1
+[2016-01-01 14:04:02.944] [DEBUG] ReviewService - Property Name: Enabled
+[2016-01-01 14:04:02.945] [DEBUG] ReviewService - Field Value 1
+[2016-01-01 14:04:02.946] [DEBUG] ReviewService - Direct  Value 1
+[2016-01-01 14:04:02.947] [DEBUG] ReviewService - Post Field Value 1
+[2016-01-01 14:04:02.949] [DEBUG] ReviewService - Post Direct  Value 1
+[2016-01-01 14:04:02.950] [DEBUG] ReviewService - Retrived valuenull
+[2016-01-01 14:04:02.952] [DEBUG] ReviewService - Property Name: StartDate
+[2016-01-01 14:04:02.954] [DEBUG] ReviewService - Field Value 2015-03-20
+[2016-01-01 14:04:02.955] [DEBUG] ReviewService - Direct  Value 2015-03-20
+[2016-01-01 14:04:02.957] [DEBUG] ReviewService - Post Field Value null
+[2016-01-01 14:04:02.958] [DEBUG] ReviewService - Post Direct  Value null
+[2016-01-01 14:04:02.960] [DEBUG] ReviewService - Retrived valuenull
+[2016-01-01 14:04:02.961] [DEBUG] ReviewService - Property Name: EndDate
+[2016-01-01 14:04:02.963] [DEBUG] ReviewService - Field Value 2015-04-30
+[2016-01-01 14:04:02.964] [DEBUG] ReviewService - Direct  Value 2015-04-30
+[2016-01-01 14:04:02.965] [DEBUG] ReviewService - Post Field Value null
+[2016-01-01 14:04:02.967] [DEBUG] ReviewService - Post Direct  Value null

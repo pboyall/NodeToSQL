@@ -11,11 +11,13 @@ var poolConfig = {
     log: false
 };
 
+
+//instancename: 'SQLEXPRESS',
 var config = {
     userName: 'radmin',
     password: 'password',
-    port: '1433',
-    server: 'PW-000011',
+    server: 'LENOVO-PC',
+    port: '54452',
     options: {
         encrypt: false,
         database: 'ReviewProject',

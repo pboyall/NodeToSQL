@@ -18,8 +18,7 @@
     "tedious": "^1.12.3",
     "tedious-connection-pool": "^0.3.8",
     "util": "^0.10.3",
-    "node-sqlite3": "*",
-    "chalk" : "*"
+    "node_sqlite3": "*"
   },
   "devDependencies": {
     "gulp": "^3.9.0",

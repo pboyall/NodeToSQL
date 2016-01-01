@@ -1,3 +1,4 @@
+npm install -g gulp
 npm install --save-dev gulp
 npm install gulp-uglify
 npm install gulp-sass
